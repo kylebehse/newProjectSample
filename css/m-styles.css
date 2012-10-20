@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+html{
+}
+body{
+}
+/**********
+CONTAINER
+***********/
+#container{
+}
+/**********
+HEADER
+***********/
+#header-wrapper {
+	width:100%;
+}
+#header {
+}
+#header-container {
+}
+/**********
+MAIN MENU
+***********/
+#menu-main{
+}
+/**********
+CONTENT
+***********/
+#content-wrapper {
+	width:100%;
+}
+#content {
+	min-height:500px;
+}
+#content-container {
+}
+/**********
+FOOTER
+***********/
+#footer-wrapper {
+	width:100%;
+}
+#footer {
+	min-height:100px;
+}
+#footer-container {
+}
